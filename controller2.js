@@ -1,8 +1,8 @@
 //variables
 
-let speed = document.querySelector(".speed");
-let bar = document.querySelector(".speed__bar");
-let video = document.querySelector(".flex");
+const speed = document.querySelector(".speed");
+const bar = document.querySelector(".speed__bar");
+const video = document.querySelector(".flex");
 
 //functions
 let handleMove = function (e) {
